@@ -1,0 +1,20 @@
+PERFIL DA VAGA - DESENVOLVEDOR PYTHON SENIOR
+
+ATRIBUTOS REQUERIDOS:
+- Experiência em Python (3+ anos)
+- Conhecimento em frameworks web (Django/Flask)
+- Experiência com bancos de dados (PostgreSQL, MySQL)
+- Conhecimento em Git e controle de versão
+- Experiência com APIs REST
+- Conhecimento em Docker
+- Experiência com testes automatizados
+- Conhecimento em cloud (AWS, Azure, GCP)
+- Inglês técnico (leitura e escrita)
+- Experiência em metodologias ágeis
+
+ATRIBUTOS DESEJÁVEIS:
+- Conhecimento em machine learning
+- Experiência com microserviços
+- Conhecimento em Kubernetes
+- Experiência com CI/CD
+- Certificações em cloud
